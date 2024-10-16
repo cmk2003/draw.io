@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="K8jOklLIUGxk8Yonxcfb">
-    <mxGraphModel>
+    <mxGraphModel dx="2514" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u30eAiwuJAqIskRoyD2I-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss.open8gu.com/image-20240826123629915.png;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="-10" width="759" height="1076" as="geometry" />
+        </mxCell>
+        <mxCell id="u30eAiwuJAqIskRoyD2I-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss.open8gu.com/image-20240827102815397.png;" vertex="1" parent="1">
+          <mxGeometry x="150" y="10" width="765" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="u30eAiwuJAqIskRoyD2I-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oss.open8gu.com/image-20240827110502447.png;" vertex="1" parent="1">
+          <mxGeometry x="-796" y="1140" width="946" height="1186" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
